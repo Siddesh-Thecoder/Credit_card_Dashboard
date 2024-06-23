@@ -43,12 +43,12 @@ Previous_week_Reveneue = CALCULATE(
  'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1)
 
 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
-	Sum of revenue by card category : The blue card generated the highest revenue of almost 46 million.
-	Sum of revenue by education type : The revenue generated from the graduated is highest which is of 22 million.
-	Sum of revenue by job type : The highest revenue generated is from the businessman which is of 17 million.
-	Sum of interest earn : The total interest earned Is of rupees 78,43,382.
-	Sum of revenue earned is 55 Million.
-	Sum of interest earned is 8 Million.
+1)	Sum of revenue by card category : The blue card generated the highest revenue of almost 46 million.
+2)	Sum of revenue by education type : The revenue generated from the graduated is highest which is of 22 million.
+3)	Sum of revenue by job type : The highest revenue generated is from the businessman which is of 17 million.
+4)	Sum of interest earn : The total interest earned Is of rupees 78,43,382.
+5)	Sum of revenue earned is 55 Million.
+6)	Sum of interest earned is 8 Million.
 
 So, this was the short over view of the data , also the data is analysed with the Quarter section that is Q1,Q2,Q3,Q4.
 													
